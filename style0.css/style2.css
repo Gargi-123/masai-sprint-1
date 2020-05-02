@@ -1,0 +1,147 @@
+
+    .flex-box {
+        display: flex;
+        padding: 20px;
+        margin: 10px;
+
+    }
+
+    .flex-box div {
+        display: flex;
+        padding: 70px;
+        margin: 10px;
+
+
+
+    }
+
+    #box1 {
+        justify-content: center;
+
+    }
+
+    #box2 {
+        justify-content: center;
+
+    }
+
+    #box3 {
+        justify-content: center;
+
+    }
+
+    .box {
+        justify-self: start;
+    }
+
+    .c0 {
+        background-image: url(Resource/icon.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+
+    }
+
+    #c1 {
+        background-image: url(Resource/johnny.png);
+        background-size: contain;
+    }
+
+    #c2 {
+        background-image: url(Resource/LittleSuzy.jpg);
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    #c3 {
+        background-image: url(Resource/bunnybravo.jpg);
+        background-size: contain;
+    }
+
+    #c4 {
+        background-image: url(Resource/pop.jpeg);
+        background-size: contain;
+    }
+
+    #c5 {
+        background-image: url(Resource/master.jpg);
+        background-size: contain;
+    }
+
+    #c6 {
+        background-image: url(Resource/Carl.jpg);
+        background-size: contain;
+    }
+
+    #c7 {
+        background-image: url(Resource/Char_31379.jpg);
+        background-size: contain;
+    }
+
+    #c8 {
+        background-image: url(Resource/Mary.png);
+        background-size: contain;
+    }
+
+    #c9 {
+        background-image: url(Resource/Pink-gorilla.jpg);
+        background-size: contain;
+    }
+
+    #c1:hover {
+        border: 3px solid black;
+    }
+
+    .c0:hover {
+        border: 3px solid black;
+
+    }
+
+    #c2:hover {
+        border: 3px solid black;
+    }
+
+    #c3:hover {
+        border: 3px solid black;
+    }
+
+    #c4:hover {
+        border: 3px solid black;
+    }
+
+    #c5:hover {
+        border: 3px solid black;
+    }
+
+    #c6:hover {
+        border: 3px solid black;
+    }
+
+    #c7:hover {
+        border: 3px solid black;
+    }
+
+    #c8:hover {
+        border: 3px solid black;
+    }
+
+    #c9:hover {
+        border: 3px solid black;
+    }
+
+    @media only screen and(max-width:600px) {
+        .flex-box {
+            flex-direction: column;
+            margin: 5px;
+
+        }
+    }
+    @media only screen and(max-width:600px) {
+        .flex-box {
+            flex-direction: column;
+            margin: 5px;
+
+        }
+    }
+
+
+        

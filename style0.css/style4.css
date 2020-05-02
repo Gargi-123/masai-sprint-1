@@ -1,0 +1,43 @@
+
+.flex-box {
+    display: flex;
+    border: 1px solid white;
+    margin: 10px;
+   
+   
+}
+
+.flex-box div {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid white;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+#box1 {
+    flex-direction: column;
+    background-image: url(Resource/award1.jpg);
+    background-size: cover;
+}
+.flex-box div:hover{
+    color:grey;
+    border-radius: 3px solid white;
+    background-color: black;
+
+}
+@media only screen and (max-width:600px)
+{
+    .flex-box{
+        flex-direction: column;
+    }
+
+}
+@media only screen and (min-width:600px)
+{
+    .flex-box{
+        flex-direction: column;
+    }
+
+}
