@@ -13,7 +13,7 @@
 }
 
 #box {
-    background-image: url(Resource/cartoon.png);
+    background-image: url(../Resource/cartoon.png);
     background-size: contain;
     background-repeat: no-repeat;
     flex-basis: 15%;
@@ -25,7 +25,7 @@
 }
 
 #jon {
-    background-image: url(Resource/title.jpg);
+    background-image: url(../Resource/title.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     flex-basis: 68%;

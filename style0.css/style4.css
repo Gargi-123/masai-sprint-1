@@ -18,7 +18,7 @@
 
 #box1 {
     flex-direction: column;
-    background-image: url(Resource/award1.jpg);
+    background-image: url(../Resource/award1.jpg);
     background-size: cover;
 }
 .flex-box div:hover{

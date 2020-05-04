@@ -35,55 +35,55 @@
     }
 
     .c0 {
-        background-image: url(Resource/icon.png);
+        background-image: url(../Resource/icon.png);
         background-size: contain;
         background-repeat: no-repeat;
 
     }
 
     #c1 {
-        background-image: url(Resource/johnny.png);
+        background-image: url(../Resource/johnny.png);
         background-size: contain;
     }
 
     #c2 {
-        background-image: url(Resource/LittleSuzy.jpg);
+        background-image: url(../Resource/LittleSuzy.jpg);
         background-size: contain;
         background-repeat: no-repeat;
     }
 
     #c3 {
-        background-image: url(Resource/bunnybravo.jpg);
+        background-image: url(../index.html/bunnybravo.jpg);
         background-size: contain;
     }
 
     #c4 {
-        background-image: url(Resource/pop.jpeg);
+        background-image: url(../Resource/pop.jpeg);
         background-size: contain;
     }
 
     #c5 {
-        background-image: url(Resource/master.jpg);
+        background-image: url(../Resource/master.jpg);
         background-size: contain;
     }
 
     #c6 {
-        background-image: url(Resource/Carl.jpg);
+        background-image: url(../Resource/Carl.jpg);
         background-size: contain;
     }
 
     #c7 {
-        background-image: url(Resource/Char_31379.jpg);
+        background-image: url(../Resource/Char_31379.jpg);
         background-size: contain;
     }
 
     #c8 {
-        background-image: url(Resource/Mary.png);
+        background-image: url(../Resource/Mary.png);
         background-size: contain;
     }
 
     #c9 {
-        background-image: url(Resource/Pink-gorilla.jpg);
+        background-image: url(../Resource/Pink-gorilla.jpg);
         background-size: contain;
     }
 
